@@ -1,4 +1,4 @@
-# 🧩 React Components & Props - Level 2!
+# 🧩 React Components & Props 
 
 Welcome back, React warriors! 🎉 Ready to dive deeper into the awesome world of Components and Props? Let's build some cool stuff!
 
